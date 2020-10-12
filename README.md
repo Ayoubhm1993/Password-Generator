@@ -10,7 +10,8 @@ https://ayoubhm1993.github.io/Password-Generator/
 ## Built With
 - HTML / CSS / JAVASCRIPT
 
-##Contribution
+## Contribution
+
 Made with ❤️ by Ayoub
 
 
